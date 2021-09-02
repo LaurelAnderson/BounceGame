@@ -11,3 +11,19 @@
 
 ## Open Issues ##
  
+- **[9]** Cheat codes that allow me to easily see/access all of your levels and features with a single key press.
+- **[10]** A paddle that can be controlled by the user that influences the path of the ball.
+- **[11]** Bricks that are placed in some configuration near the top of the screen and are "destroyed" when hit
+- **[12]** A progression of at least three levels in which the game gets slightly more difficult.
+- **[13]** Corrected collision response for the ball, so it doesn't get caught in the walls or in bricks.
+- **[14]** A "Lives Remaining" indicator that shows the player initially has three lives. These should decrease each
+            time the ball goes past the bottom of the screen (perhaps in other situations too?)
+- **[15]** When no lives are left, the game should display a "Game Over" message
+
+## Extra Stuff ##
+- **[16]** Various types of bricks that require different numbers of bounces to destroy (easy).
+- **[17]** Custom sounds (easy)
+- **[18]** Persistent high score tracking (easy).
+- **[19]** I would like to make it so that the ball sticks to the paddle at the beginning of a game until you release
+            it when you want.
+- **[20]** I would like to make some blocks so that they explode other blocks
